@@ -1,4 +1,6 @@
 # shiftQA
+#cft #shift #focusstart #qa #python #frontend #demoqa #automation
+
 CFT Shift QA automation course
 
 Задания архивируем в формате shift_familia_io.zip
